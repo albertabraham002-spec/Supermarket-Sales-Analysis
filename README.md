@@ -2,7 +2,6 @@
 Sales data analysis project utilizing Excel, MySQL, and Power BI to examine customer behavior, product performance, pricing patterns, and country-wise sales trends through interactive dashboards and insights.
 
 📊 Sales Report Analysis (Excel | MySQL | Power BI)
-📌 Project Overview
 
 This project presents an end-to-end sales data analysis workflow designed to evaluate business performance across customers, products, pricing, and countries. The analysis combines Excel for data cleaning, MySQL for querying and statistical analysis, and Power BI for interactive dashboards and reporting.
 
